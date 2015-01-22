@@ -23,7 +23,7 @@ The Maryland Reported Sewer Overflow Database contains bypasses, combined sewer 
 * Penalty Collected	
 * Notes
 
-While this data is online and accesible through Maryland's open data portal (https://data.maryland.gov/api/views/3rgd-zjxx.json), our team works to correct SSO/CSO event coordinates.  Data is routinely pulled from Maryland's reported Sewer Overflow Database located here:  http://www.mde.state.md.us/programs/Water/OverFlow/Pages/ReportedSewerOverflow.aspx
+While this data is online and accesible through Maryland's open data portal (Meta: https://data.maryland.gov/api/views/3rgd-zjxx.json Attributes: https://data.maryland.gov/resource/3rgd-zjxx.json), our team works to correct SSO/CSO event coordinates.  Data is routinely pulled from Maryland's reported Sewer Overflow Database located here:  http://www.mde.state.md.us/programs/Water/OverFlow/Pages/ReportedSewerOverflow.aspx
 
 
 
